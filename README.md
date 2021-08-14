@@ -3,5 +3,5 @@ A grid based music player I wrote using Qt, KDE3, and C++ before C++11 back when
 
 
 <p align="center">
-  <img alt="MusikPlot Screenshot" src="ScreenShot.png" width="299" />
+  <img alt="MusikPlot Screenshot" src="ScreenShot.png" width="500" />
 </p>
